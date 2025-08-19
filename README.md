@@ -18,7 +18,7 @@ Key Insights:
 - **Top Performers:** Top 5 States by Profit, Loss, and Sales  
 - **Profit Share:** by Segment (Pie Chart)  
 
-![Dashboard Preview](dashboard.png)
+[Dashboard Preview](dashboard.png)
 
 ## Tech Stack  
 - **dbt (SQLite)** – Data modeling and transformation  
