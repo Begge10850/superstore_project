@@ -4,6 +4,9 @@
 This project demonstrates an end-to-end **Business Intelligence workflow** using **dbt** for data modeling and **Tableau** for dashboarding.  
 The dataset is the classic **Superstore dataset**, cleaned and transformed before creating insights in Tableau.  
 
+🔗 **Interactive Dashboard on Tableau Public:**  
+[View Dashboard](https://public.tableau.com/views/superstoredashbordtabkleau/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Data Transformation (dbt)  
 - Connected **Superstore dataset** to dbt using SQLite.  
 - Built **raw models** (importing raw orders).  
